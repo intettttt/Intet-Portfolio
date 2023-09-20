@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <div class="topbar">
+        <nav>
+            <ul>
+                <li><a href="portfolio.html">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">WORKS</a></li>
+            </ul>
+        </nav>
+        <div class="detel">
+            <h1>I'm <span>Intet</span></h1>
+            <p>This is my portfolio website to show all
+                <br> what i had experience during the making and the works that i have made
+            </p>
+            <a href="#"> </a>
+        </div>
+        <div class="images">
+            <img src="./profile.jpg" alt="" height="400px">
+        </div>
+    </div>
+    
+</body>
+</html>
