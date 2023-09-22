@@ -50,14 +50,27 @@ span{
 }
 
 .images{
-    position: absolute;
+    position: relative;
     bottom: 0;
     top: 200px;
     right: 200px;
 }
 
 #aboutme {
+    height: 100vh;
     padding:60px;
     color: black;
     background-color: gray;
+}
+
+#topppp{
+    height: 100vh;
+}
+
+#works{
+    height: 100vh;
+}
+
+.aboutme1{
+    position: relative;
 }
