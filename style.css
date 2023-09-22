@@ -52,8 +52,8 @@ span{
 .images{
     position: relative;
     bottom: 0;
-    top: 200px;
-    right: 200px;
+    top: -250px;
+    right: -1100px;
 }
 
 #aboutme {
@@ -71,8 +71,17 @@ span{
     height: 100vh;
 }
 
-.aboutme1{
+.subtitle{
+    top:50%;
+}
+
+.details{
     position: relative;
     justify-content: center;
-    align-content: center;
+}
+
+.row{
+    position: relative;
+    justify-content: center;
+    text-align: center;
 }
