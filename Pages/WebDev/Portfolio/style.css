@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: red;
+}
+
+.detel{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+
+.detel h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+span{
+    color: gray;
+}
+
+.detel p{
+    color: #555;
+    line-height: 22px;
+}
+
+.images{
+    position: relative;
+    bottom: 0;
+    top: -250px;
+    right: -1100px;
+}
+
+#aboutme {
+    height: 100vh;
+    padding:60px;
+    color: black;
+    background-color: gray;
+}
+
+#topppp{
+    height: 100vh;
+}
+
+#works{
+    height: 100vh;
+}
+
+.subtitle{
+    top:50%;
+}
+
+.details{
+    position: relative;
+    justify-content: center;
+}
+
+.row{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo1{
+    position: relative;
+    bottom: 0;
+    top: -400px;
+    right: -200px;
+    height: 50px;
+}
+
