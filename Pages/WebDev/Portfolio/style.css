@@ -72,12 +72,16 @@ span{
 }
 
 .subtitle{
-    top:50%;
+    top:60%;
+    font-family: Arial;
+    padding: 5%;
 }
 
 .details{
     position: relative;
     justify-content: center;
+    font-family: serif;
+    font-size: 25px;
 }
 
 .row{
